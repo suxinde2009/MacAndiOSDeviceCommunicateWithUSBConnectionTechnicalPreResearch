@@ -1,0 +1,2 @@
+# MacAndiOSDeviceCommunicateWithUSBConnectionTechnicalPreResearch
+Mac同iOS设备通过usb连接进行数据传输交互的技术预研
