@@ -1,0 +1,16 @@
+PODS:
+  - PeerTalk (0.0.1)
+
+DEPENDENCIES:
+  - PeerTalk (= 0.0.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - PeerTalk
+
+SPEC CHECKSUMS:
+  PeerTalk: 5e6843592fea14a4221a9829c43d92a309b7130b
+
+PODFILE CHECKSUM: 9b97ae61e76c86f5f064e3536ddbfb352e837bda
+
+COCOAPODS: 1.5.3
